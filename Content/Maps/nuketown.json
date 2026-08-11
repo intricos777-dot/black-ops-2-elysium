@@ -1,0 +1,17 @@
+{
+  "name": "Nuketown",
+  "bounds": {"x": 120, "z": 120},
+  "spawns": [
+    {"team": "allies", "x": -40, "z": -40},
+    {"team": "axis", "x": 40, "z": 40}
+  ],
+  "landmarks": [
+    {"name": "Bus", "x": 0, "z": 0},
+    {"name": "House_Red", "x": -30, "z": -25},
+    {"name": "House_Blue", "x": 30, "z": 25}
+  ],
+  "bonfires": [
+    {"position": [-40, 0, -40], "name": "Spawn_A"},
+    {"position": [40, 0, 40], "name": "Spawn_B"}
+  ]
+}

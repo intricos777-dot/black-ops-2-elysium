@@ -1,0 +1,8 @@
+[
+  {"name":"M8A7","weaponClass":"AssaultRifle","baseDamage":82,"weight":3.4,"fireRate":700},
+  {"name":"Peacekeeper","weaponClass":"SMG","baseDamage":58,"weight":2.6,"fireRate":850},
+  {"name":"FAL OSW","weaponClass":"AssaultRifle","baseDamage":98,"weight":3.1,"fireRate":500},
+  {"name":"KAP-40","weaponClass":"Pistol","baseDamage":62,"weight":1.8,"fireRate":400},
+  {"name":"Executioner","weaponClass":"Pistol","baseDamage":78,"weight":2.2,"fireRate":320},
+  {"name":"S12","weaponClass":"Shotgun","baseDamage":88,"weight":3.8,"fireRate":180}
+]

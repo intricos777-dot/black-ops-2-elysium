@@ -1,0 +1,6 @@
+[
+  {"name":"Mercenary","type":"infantry","health":150,"damage":18,"speed":1.3},
+  {"name":"Heavy Gunner","type":"heavy","health":320,"damage":28,"speed":0.85},
+  {"name":"Sniper","type":"marksman","health":140,"damage":45,"speed":1.05},
+  {"name":"Juggernaut","type":"armored","health":600,"damage":40,"speed":0.6}
+]

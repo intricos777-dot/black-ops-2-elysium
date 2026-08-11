@@ -1,0 +1,10 @@
+[
+  {"name":"Nuketown","mode":"multiplayer","layout":"small","maxPlayers":6},
+  {"name":"Standoff","mode":"multiplayer","layout":"medium","maxPlayers":8},
+  {"name":"Raid","mode":"multiplayer","layout":"medium","maxPlayers":8},
+  {"name":"Slums","mode":"multiplayer","layout":"medium","maxPlayers":8},
+  {"name":"Drone","mode":"multiplayer","layout":"small","maxPlayers":6},
+  {"name":"Express","mode":"multiplayer","layout":"small","maxPlayers":6},
+  {"name":"Carrier","mode":"multiplayer","layout":"large","maxPlayers":10},
+  {"name":"Meltdown","mode":"multiplayer","layout":"medium","maxPlayers":8}
+]

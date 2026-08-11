@@ -1,0 +1,5 @@
+[
+  {"name":"Hollow Soldier","type":"hollow","health":120,"damage":15,"speed":1.2},
+  {"name":"Undead Knight","type":"knight","health":280,"damage":35,"speed":0.9},
+  {"name":"Mysterious Mage","type":"mage","health":160,"damage":55,"speed":1.0}
+]

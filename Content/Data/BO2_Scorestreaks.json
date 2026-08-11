@@ -1,0 +1,9 @@
+[
+  {"name":"UAV","cost":300,"duration":30,"type":"recon"},
+  {"name":"Care Package","cost":400,"duration":0,"type":"supply"},
+  {"name":"Predator Missile","cost":700,"duration":0,"type":"strike"},
+  {"name":"Sentinel","cost":900,"duration":45,"type":"rc"},
+  {"name":"VSAT","cost":1200,"duration":35,"type":"recon"},
+  {"name":"Dogs","cost":1000,"duration":60,"type":"assault"},
+  {"name":"Gryphon","cost":1400,"duration":0,"type":"strike"}
+]

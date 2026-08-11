@@ -1,0 +1,7 @@
+[
+  {"name":"AK-47","weaponClass":"AssaultRifle","baseDamage":85,"weight":3.2,"fireRate":600},
+  {"name":"M16","weaponClass":"AssaultRifle","baseDamage":95,"weight":3.0,"fireRate":750},
+  {"name":"MP5","weaponClass":"SubmachineGun","baseDamage":55,"weight":2.4,"fireRate":800},
+  {"name":"Model 1887","weaponClass":"Shotgun","baseDamage":90,"weight":4.0,"fireRate":200},
+  {"name":"Python","weaponClass":"Pistol","baseDamage":80,"weight":2.0,"fireRate":250}
+]

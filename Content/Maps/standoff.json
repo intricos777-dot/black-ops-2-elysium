@@ -1,0 +1,16 @@
+{
+  "name": "Standoff",
+  "bounds": {"x": 160, "z": 160},
+  "spawns": [
+    {"team": "allies", "x": -50, "z": -50},
+    {"team": "axis", "x": 50, "z": 50}
+  ],
+  "landmarks": [
+    {"name": "Hotel", "x": 0, "z": 0},
+    {"name": "Restaurant", "x": -40, "z": 30}
+  ],
+  "bonfires": [
+    {"position": [-50, 0, -50], "name": "Spawn_A"},
+    {"position": [50, 0, 50], "name": "Spawn_B"}
+  ]
+}
