@@ -19,7 +19,7 @@ import numpy as np
 
 from renderer import Vec3, Scene, SceneObject, Triangle, Shader, WireframeShader
 
-REPO_ROOT = Path.home() / "Projects" / "twilight-elysium"
+REPO_ROOT = Path(__file__).resolve().parents[3]
 CONTENT_DIR = REPO_ROOT / "Content"
 ASSETS_DIR = REPO_ROOT / "assets"
 

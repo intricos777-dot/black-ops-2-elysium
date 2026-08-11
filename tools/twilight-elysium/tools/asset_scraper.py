@@ -33,7 +33,7 @@ from datetime import datetime, timezone
 from typing import Dict, List, Optional, Tuple
 
 # Twilight Elysium repo root
-REPO_ROOT = Path.home() / "Projects" / "twilight-elysium"
+REPO_ROOT = Path(__file__).resolve().parents[3]
 ASSETS_DIR = REPO_ROOT / "assets"
 SHADERS_DIR = ASSETS_DIR / "shaders"
 MODELS_DIR = ASSETS_DIR / "models"

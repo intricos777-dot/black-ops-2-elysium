@@ -33,7 +33,7 @@ from dream_engine import DreamGenerator, create_dream_scene
 from renderer import SoftwareRenderer, WIDTH, HEIGHT, FPS, Vec3
 from asset_scraper import scrape_shadertoy, scrape_gltf_models, scrape_poly_haven
 
-REPO_ROOT = Path.home() / "Projects" / "twilight-elysium"
+REPO_ROOT = Path(__file__).resolve().parents[3]
 CONTENT_DIR = REPO_ROOT / "Content"
 ASSETS_DIR = REPO_ROOT / "assets"
 OUTPUT_DIR = REPO_ROOT / "output"

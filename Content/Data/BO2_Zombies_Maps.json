@@ -1,8 +1,74 @@
 [
-  {"name":"Tranzit","location":"Green Run","survivors":4,"doors":12},
-  {"name":"Nuketown","location":"Temple","survivors":4,"doors":8},
-  {"name":"Die Rise","location":"Shanghai","survivors":4,"doors":14},
-  {"name":"Mob of the Dead","location":"Alcatraz","survivors":4,"doors":10},
-  {"name":"Buried","location":"Buried","survivors":4,"doors":11},
-  {"name":"Origins","location":"Der Eisendrache","survivors":4,"doors":15}
+  {
+    "name": "Tranzit",
+    "location": "Green Run",
+    "survivors": 4,
+    "doors": 12,
+    "maxPlayers": 50,
+    "difficulty": [
+      "casual",
+      "legend"
+    ],
+    "zlobby": true
+  },
+  {
+    "name": "Nuketown",
+    "location": "Temple",
+    "survivors": 4,
+    "doors": 8,
+    "maxPlayers": 50,
+    "difficulty": [
+      "casual",
+      "legend"
+    ],
+    "zlobby": true
+  },
+  {
+    "name": "Die Rise",
+    "location": "Shanghai",
+    "survivors": 4,
+    "doors": 14,
+    "maxPlayers": 50,
+    "difficulty": [
+      "casual",
+      "legend"
+    ],
+    "zlobby": true
+  },
+  {
+    "name": "Mob of the Dead",
+    "location": "Alcatraz",
+    "survivors": 4,
+    "doors": 10,
+    "maxPlayers": 50,
+    "difficulty": [
+      "casual",
+      "legend"
+    ],
+    "zlobby": true
+  },
+  {
+    "name": "Buried",
+    "location": "Buried",
+    "survivors": 4,
+    "doors": 11,
+    "maxPlayers": 50,
+    "difficulty": [
+      "casual",
+      "legend"
+    ],
+    "zlobby": true
+  },
+  {
+    "name": "Origins",
+    "location": "Der Eisendrache",
+    "survivors": 4,
+    "doors": 15,
+    "maxPlayers": 50,
+    "difficulty": [
+      "casual",
+      "legend"
+    ],
+    "zlobby": true
+  }
 ]

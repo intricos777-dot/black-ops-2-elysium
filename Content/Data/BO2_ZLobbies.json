@@ -1,0 +1,18 @@
+{
+  "zlobby": {
+    "enabled": true,
+    "maxPlayers": 50,
+    "minPlayers": 1,
+    "scoreboardSlots": 50,
+    "serverTicks": 30,
+    "respawnWaves": true,
+    "matchmaking": "fill-any",
+    "regions": ["us-east", "us-west", "eu-west", "eu-central", "ap-southeast", "sa-east"]
+  },
+  "perMapPlayerScaling": {
+    "enabled": true,
+    "50p_zombieSpawnMultiplier": 2.5,
+    "50p_roundHealthMultiplier": 3.0,
+    "50p_doorCostMultiplier": 2.0
+  }
+}
