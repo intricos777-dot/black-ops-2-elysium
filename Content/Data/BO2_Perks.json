@@ -1,11 +1,15 @@
 [
   {"name":"Lightweight","tier":1,"speed":1.15,"fallDamage":0.3},
-  {"name":"Hard Wired","tier":1,"counterUav":True},
-  {"name":"Scavenger","tier":1,"ammoReserve":True},
-  {"name":"Blind Eye","tier":2,"stealth":True},
-  {"name":"Fast Hands","tier":2,"reloadSpeed":1.25},
+  {"name":"Hardline","tier":1,"scorestreakCost":0.8},
+  {"name":"Flak Jacket","tier":1,"explosiveResist":0.35},
+  {"name":"Ghost","tier":1,"uavImmunity":true,"thermal":false},
+  {"name":"Scavenger","tier":2,"ammoReserve":true},
   {"name":"Toughness","tier":2,"flinch":0.4},
-  {"name":"Cold Blooded","tier":3,"thermal":False},
-  {"name":"Dead Silence","tier":3,"footsteps":False},
-  {"name":"Extreme Conditioning","tier":3,"sprint":1.4}
+  {"name":"Cold Blooded","tier":2,"thermal":false},
+  {"name":"Fast Hands","tier":2,"reloadSpeed":1.25},
+  {"name":"Extreme Conditioning","tier":3,"sprint":1.4},
+  {"name":"Dexterity","tier":3,"climbSpeed":1.3,"adsSpeed":1.15},
+  {"name":"Engineer","tier":3,"equipmentTargeting":true},
+  {"name":"Dead Silence","tier":3,"footsteps":false},
+  {"name":"Awareness","tier":3,"audioFootsteps":true}
 ]

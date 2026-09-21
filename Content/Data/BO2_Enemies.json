@@ -2,5 +2,8 @@
   {"name":"Mercenary","type":"infantry","health":150,"damage":18,"speed":1.3},
   {"name":"Heavy Gunner","type":"heavy","health":320,"damage":28,"speed":0.85},
   {"name":"Sniper","type":"marksman","health":140,"damage":45,"speed":1.05},
-  {"name":"Juggernaut","type":"armored","health":600,"damage":40,"speed":0.6}
+  {"name":"Juggernaut","type":"armored","health":600,"damage":40,"speed":0.6},
+  {"name":"CLAW","type":"robotic","health":80,"damage":15,"speed":1.6,"drone":true},
+  {"name":"AGR Walker","type":"robotic","health":900,"damage":55,"speed":0.5,"armor":true},
+  {"name":"Flashback Zombie","type":"outbreak","health":200,"damage":25,"speed":1.2,"note":"Nuketown easter egg — the tunnel that never stays closed"}
 ]

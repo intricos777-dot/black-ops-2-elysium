@@ -1,0 +1,43 @@
+{
+  "storyline": "The zombie outbreak began at the Nuketown test site, crossed 1,000 years from Green Run's forest, and ended where Richtofen's grand schema split the earth. Samuel J. Stuhlinger hears a voice that whispers from the Aether; Marlton documents; Misty survives; Russman forgets. Mob of the Dead is the prison of Alcatraz, where the Weasel and his gang pay for the riddles they hoarded. Buried is the old west hunting town that swallowed itself. Origins is the Great War in 1918 — where four soldiers tore the mystery open with Deutschland's finest.",
+  "maps": [
+    {"name":"Nuketown Zombies","era":"test site, 1960s","crew":"The Green Run Crew","boss":"Avogadro"},
+    {"name":"Green Run / TranZit","era":"2025-2026 fallout","crew":"Marlton Johnson, Misty, Russman, Samuel J. Stuhlinger"},
+    {"name":"Die Rise","era":"post-apocalyptic skyscraper","crew":"Green Run crew","boss":"the rising tower"},
+    {"name":"Mob of the Dead","era":"Alcatraz, 1933","crew":"Weasel, Billy Handsome, Salvatore DeLuca, Michael Finn","boss":"Brutus"},
+    {"name":"Buried","era":"western mining town","crew":"Green Run crew + Leroy","boss":"the Ghost"},
+    {"name":"Origins","era":"France, 1918","crew":"Tank Dempsey, Nikolai Belinski, Takeo Masaki, Edward Richtofen","boss":"Panzer Soldat"}
+  ],
+  "perks": [
+    {"name":"Juggernog","cost":2500,"effect":"more health"},
+    {"name":"Quick Revive","cost":500,"effect":"self-revive / solo revival"},
+    {"name":"Speed Cola","cost":3000,"effect":"faster reload"},
+    {"name":"Double Tap Root Beer","cost":2000,"effect":"double fire rate"},
+    {"name":"Stamin-Up","cost":2000,"effect":"unlimited sprint"},
+    {"name":"PhD Flopper","cost":2000,"effect":"explosion immunity on flopping"},
+    {"name":"Mule Kick","cost":4000,"effect":"third weapon slot"},
+    {"name":"Electric Cherry","cost":2000,"effect":"shock rounds on reload"},
+    {"name":"Deadshot Daiquiri","cost":1500,"effect":"auto headshot snap"},
+    {"name":"Elemental Punch","cost":6000,"effect":"ricochet rounds — the wunderwaffe that fights back"}
+  ],
+  "wonderWeapons": [
+    {"name":"Ray Gun","function":"explosive plasma pistol","mag":20,"damage":100},
+    {"name":"Ray Gun — AK Pattern","alias":"plasma pistol AK","function":"Soviet-pattern rebuild of the classic plasma pistol — wooden furniture, curved 50-round magazine, fury barely raised","mag":50,"damage":112,"rarestBoxDrop":true},
+    {"name":"Thundergun","function":"shockwave cannon (Mob of the Dead)","mag":2,"damage":200},
+    {"name":"Paralyzer","function":"hovering blaster (Buried)","mag":200,"damage":30},
+    {"name":"Staffs of the Ancients","function":"fire, ice, wind, lightning staves (Origins)","mag":10,"damage":150},
+    {"name":"Wunderwaffe DG-2","function":"chain lightning","mag":30,"damage":120}
+  ],
+  "mysteryBox": {
+    "note": "The box always takes, and sometimes gives back. Weights are relative — the AK Pattern is the rarest draw the box knows.",
+    "drops": [
+      {"item":"Ray Gun","dropChance":0.06,"tier":"legendary"},
+      {"item":"Ray Gun Mark II","dropChance":0.03,"tier":"legendary"},
+      {"item":"Thundergun","dropChance":0.02,"tier":"mythic"},
+      {"item":"Paralyzer","dropChance":0.02,"tier":"mythic"},
+      {"item":"Wunderwaffe DG-2","dropChance":0.015,"tier":"mythic"},
+      {"item":"Staffs of the Ancients","dropChance":0.01,"tier":"mythic"},
+      {"item":"Ray Gun — AK Pattern","dropChance":0.005,"tier":"rarest"}
+    ]
+  }
+}
